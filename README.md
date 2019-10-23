@@ -1,4 +1,4 @@
-CI: https://travis-ci.org/saitejatokala/docker-react.svg?branch=master
+![build status](https://travis-ci.org/saitejatokala/docker-react.svg?branch=master)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
